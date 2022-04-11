@@ -4,3 +4,6 @@ The AI chatbot is a automatic communicating system for a college inquiry. Here, 
 
 
 ![ac](https://user-images.githubusercontent.com/17751104/161262593-2a32d051-7625-4a06-9fe2-66a4e5224a79.png)
+
+
+sd
