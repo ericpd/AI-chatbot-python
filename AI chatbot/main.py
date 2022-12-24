@@ -74,3 +74,5 @@ while True:
         ints = predict_class(message)
         res = get_response(ints, intents)
         print("| Bot:", res)
+        
+        print("| Bot:", res)
