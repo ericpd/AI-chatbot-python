@@ -75,4 +75,4 @@ while True:
         res = get_response(ints, intents)
         print("| Bot:", res)
         
-      
+      ###add online API
